@@ -1,0 +1,5 @@
+git commands
+
+git init     - for initialization
+git add .    - for adding the files to stage environment
+git commit -m "message"  - takes the files from stage area and takes a snapshot of the current repository and save 				   it with unique identifier.
